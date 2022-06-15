@@ -41,7 +41,9 @@ defmodule Melody.MixProject do
       {:postgrex, ">= 0.0.0"},
       {:jason, "~> 1.2"},
       {:swoosh, "~> 1.3"},
-      {:phx_gen_solid, "~> 0.2"}
+      {:phx_gen_solid, "~> 0.2"},
+      {:quantum, "~> 3.5"},
+      {:event_bus, "~> 1.7"}
     ]
   end
 
