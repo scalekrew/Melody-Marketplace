@@ -43,7 +43,8 @@ defmodule Melody.MixProject do
       {:swoosh, "~> 1.3"},
       {:phx_gen_solid, "~> 0.2"},
       {:quantum, "~> 3.5"},
-      {:event_bus, "~> 1.7"}
+      {:event_bus, "~> 1.7"},
+      {:nebulex, "~> 2.4.0"}
     ]
   end
 
