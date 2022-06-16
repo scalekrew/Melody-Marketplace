@@ -30,7 +30,7 @@ Roadmap
 - Postgres DB
 - [PostGIS](https://postgis.net/)
 
-### Sponsered by
+### Sponsored by
 [Songpoem Solutions](https://www.songpoem.com/)
 
 ### Contributions Welcome
